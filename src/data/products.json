@@ -1,0 +1,277 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15 Pro",
+    "price": 999,
+    "originalPrice": 1099,
+    "category": "Electronics",
+    "image": "https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg",
+      "https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg"
+    ],
+    "description": "The most advanced iPhone ever with titanium design, A17 Pro chip, and professional camera system.",
+    "features": [
+      "A17 Pro chip with 6-core GPU",
+      "Pro camera system with 48MP main",
+      "Titanium design",
+      "Action button",
+      "USB-C connectivity"
+    ],
+    "rating": 4.8,
+    "reviews": 2847,
+    "inStock": true,
+    "badge": "Popular"
+  },
+  {
+    "id": 2,
+    "name": "MacBook Air M3",
+    "price": 1299,
+    "category": "Electronics",
+    "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg",
+    "images": [
+      "https://images.pexels.com/photos/18105/pexels-photo.jpg",
+      "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg"
+    ],
+    "description": "Supercharged by the M3 chip, MacBook Air is a portable powerhouse for work and play.",
+    "features": [
+      "M3 chip with 8-core CPU",
+      "13.6-inch Liquid Retina display",
+      "18-hour battery life",
+      "Fanless design",
+      "MagSafe charging"
+    ],
+    "rating": 4.9,
+    "reviews": 1923,
+    "inStock": true
+  },
+  {
+    "id": 3,
+    "name": "Sony WH-1000XM5",
+    "price": 349,
+    "originalPrice": 399,
+    "category": "Electronics",
+    "image": "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg",
+      "https://images.pexels.com/photos/1649771/pexels-photo-1649771.jpeg"
+    ],
+    "description": "Industry-leading noise canceling headphones with exceptional sound quality.",
+    "features": [
+      "Industry-leading noise cancellation",
+      "30-hour battery life",
+      "Touch sensor controls",
+      "Speak-to-chat technology",
+      "Premium comfort design"
+    ],
+    "rating": 4.7,
+    "reviews": 5632,
+    "inStock": true,
+    "badge": "Bestseller"
+  },
+  {
+    "id": 4,
+    "name": "Premium Wool Coat",
+    "price": 199,
+    "originalPrice": 249,
+    "category": "Fashion",
+    "image": "https://images.pexels.com/photos/1036622/pexels-photo-1036622.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/1036622/pexels-photo-1036622.jpeg",
+      "https://images.pexels.com/photos/1021693/pexels-photo-1021693.jpeg"
+    ],
+    "description": "Elegant wool coat perfect for cold weather with timeless design and superior comfort.",
+    "features": [
+      "100% premium wool",
+      "Water-resistant finish",
+      "Tailored fit",
+      "Interior pockets",
+      "Dry clean only"
+    ],
+    "rating": 4.6,
+    "reviews": 892,
+    "inStock": true,
+    "badge": "New"
+  },
+  {
+    "id": 5,
+    "name": "Designer Handbag",
+    "price": 89,
+    "category": "Fashion",
+    "image": "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg",
+      "https://images.pexels.com/photos/1049764/pexels-photo-1049764.jpeg"
+    ],
+    "description": "Stylish leather handbag with multiple compartments and elegant design.",
+    "features": [
+      "Genuine leather construction",
+      "Multiple interior compartments",
+      "Adjustable strap",
+      "Gold-tone hardware",
+      "Dust bag included"
+    ],
+    "rating": 4.5,
+    "reviews": 1456,
+    "inStock": true
+  },
+  {
+    "id": 6,
+    "name": "Running Sneakers",
+    "price": 129,
+    "category": "Fashion",
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg",
+      "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg"
+    ],
+    "description": "High-performance running shoes with advanced cushioning and breathable design.",
+    "features": [
+      "Advanced cushioning system",
+      "Breathable mesh upper",
+      "Durable rubber outsole",
+      "Reflective accents",
+      "Machine washable"
+    ],
+    "rating": 4.4,
+    "reviews": 2341,
+    "inStock": true
+  },
+  {
+    "id": 7,
+    "name": "The Art of Programming",
+    "price": 45,
+    "category": "Books",
+    "image": "https://images.pexels.com/photos/1130980/pexels-photo-1130980.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/1130980/pexels-photo-1130980.jpeg",
+      "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg"
+    ],
+    "description": "Comprehensive guide to modern programming techniques and best practices.",
+    "features": [
+      "500+ pages of content",
+      "Real-world examples",
+      "Code samples included",
+      "Expert author",
+      "Latest industry standards"
+    ],
+    "rating": 4.8,
+    "reviews": 763,
+    "inStock": true,
+    "badge": "Bestseller"
+  },
+  {
+    "id": 8,
+    "name": "Modern Web Design",
+    "price": 39,
+    "originalPrice": 49,
+    "category": "Books",
+    "image": "https://images.pexels.com/photos/590493/pexels-photo-590493.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/590493/pexels-photo-590493.jpeg",
+      "https://images.pexels.com/photos/1112048/pexels-photo-1112048.jpeg"
+    ],
+    "description": "Learn cutting-edge web design principles and techniques used by top designers.",
+    "features": [
+      "Latest design trends",
+      "Step-by-step tutorials",
+      "Color theory guide",
+      "Typography fundamentals",
+      "Portfolio examples"
+    ],
+    "rating": 4.6,
+    "reviews": 1129,
+    "inStock": true
+  },
+  {
+    "id": 9,
+    "name": "Minimalist Desk Lamp",
+    "price": 79,
+    "category": "Home & Garden",
+    "image": "https://images.pexels.com/photos/1112598/pexels-photo-1112598.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/1112598/pexels-photo-1112598.jpeg",
+      "https://images.pexels.com/photos/1571458/pexels-photo-1571458.jpeg"
+    ],
+    "description": "Sleek LED desk lamp with adjustable brightness and modern design.",
+    "features": [
+      "LED energy efficient",
+      "Adjustable brightness",
+      "Touch controls",
+      "Flexible arm design",
+      "USB charging port"
+    ],
+    "rating": 4.7,
+    "reviews": 945,
+    "inStock": true
+  },
+  {
+    "id": 10,
+    "name": "Ceramic Plant Pot Set",
+    "price": 35,
+    "category": "Home & Garden",
+    "image": "https://images.pexels.com/photos/1005058/pexels-photo-1005058.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/1005058/pexels-photo-1005058.jpeg",
+      "https://images.pexels.com/photos/1974596/pexels-photo-1974596.jpeg"
+    ],
+    "description": "Beautiful ceramic plant pots perfect for indoor plants and home decoration.",
+    "features": [
+      "Set of 3 different sizes",
+      "Drainage holes included",
+      "Saucers included",
+      "Glazed ceramic finish",
+      "Modern design"
+    ],
+    "rating": 4.3,
+    "reviews": 673,
+    "inStock": true,
+    "badge": "New"
+  },
+  {
+    "id": 11,
+    "name": "Wireless Gaming Mouse",
+    "price": 69,
+    "originalPrice": 89,
+    "category": "Electronics",
+    "image": "https://images.pexels.com/photos/2115256/pexels-photo-2115256.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/2115256/pexels-photo-2115256.jpeg",
+      "https://images.pexels.com/photos/1714208/pexels-photo-1714208.jpeg"
+    ],
+    "description": "High-precision wireless gaming mouse with customizable RGB lighting.",
+    "features": [
+      "16000 DPI sensor",
+      "Wireless 2.4GHz connection",
+      "RGB lighting",
+      "Programmable buttons",
+      "70-hour battery life"
+    ],
+    "rating": 4.5,
+    "reviews": 1834,
+    "inStock": true
+  },
+  {
+    "id": 12,
+    "name": "Organic Coffee Beans",
+    "price": 24,
+    "category": "Food & Beverage",
+    "image": "https://images.pexels.com/photos/894695/pexels-photo-894695.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/894695/pexels-photo-894695.jpeg",
+      "https://images.pexels.com/photos/1695052/pexels-photo-1695052.jpeg"
+    ],
+    "description": "Premium organic coffee beans with rich flavor and smooth finish.",
+    "features": [
+      "100% organic certified",
+      "Single-origin beans",
+      "Medium roast",
+      "Fair trade certified",
+      "Freshly roasted"
+    ],
+    "rating": 4.9,
+    "reviews": 2156,
+    "inStock": true,
+    "badge": "Organic"
+  }
+]
