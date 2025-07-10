@@ -8,6 +8,19 @@ import Cart from './components/Cart';
 import { Product } from './types';
 import productsData from './data/products.json';
 import Assistant from './components/Assistant';
+import ReactDOM from 'react-dom/client';
+// import App from './App';
+
+const root = ReactDOM.createRoot(document.getElementById('root')!);
+
+root.render(
+  <React.StrictMode>
+    <CartProvider>
+      <App />
+    </CartProvider>
+  </React.StrictMode>
+);
+
 
 
 function App() {

@@ -1,4 +1,6 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
+
+// Use a direct API key or create a configuration file for client-side use
 const API_KEY = import.meta.env.GEMINI_API_KEY;
 
 const genAI = new GoogleGenerativeAI(API_KEY);
